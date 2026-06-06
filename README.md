@@ -1,4 +1,7 @@
 # EX-NO-13-MESSAGE-AUTHENTICATION-CODE-MAC
+## NAME: J.PREM PRASANTH
+
+## REGISTER NUMBER:2305001028
 
 ## AIM:
 To implement MESSAGE AUTHENTICATION CODE(MAC)
@@ -78,6 +81,8 @@ int main() {
 ```
 
 ## Output:
+<img width="901" height="368" alt="image" src="https://github.com/user-attachments/assets/bdbe50cc-a3fc-4843-a729-5ef3ce2940b6" />
+
 
 
 ## Result:
